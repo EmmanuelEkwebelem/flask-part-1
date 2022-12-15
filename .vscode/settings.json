@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/45bc3c82-25f3-431f-b094-964bf7422a33/AppServices/subscriptions/45bc3c82-25f3-431f-b094-964bf7422a33/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/HHA-504-Flask-Part-1",
-    "appService.deploySubpath": "."
-}

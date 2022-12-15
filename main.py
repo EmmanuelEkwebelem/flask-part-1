@@ -4,15 +4,15 @@ app = Flask(__name__)
 
 @app.route('/')
 def homepage():
-    return render_template('homepage.html')
+    return render_template('home.html')
 
-@app.route('/about/')
+@app.route('/login/')
 def about():
-    return render_template('about.html')
+    return render_template('login.html')
 
-@app.route('/contact/')
+@app.route('/signup/')
 def contact():
-    return render_template('contact.html')
+    return render_template('signup.html')
 
 if  __name__=='__main__':
     app.run(host="0.0.0.0", port=8080, debug=True)
