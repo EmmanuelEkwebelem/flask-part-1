@@ -6,7 +6,9 @@ Instructions:
 
 Create a new github repo called 'flask-part-1': 
 
-Step 1: Inside the repo, create a basic flask app that has a 'hello world' as the main index (/), and create at least two additional pages. Step 2: Deploy flask app on GCP + Azure 
+Step 1: Inside the repo, create a basic flask app that has a 'hello world' as the main index (/), and create at least two additional pages. 
+
+Step 2: Deploy flask app on GCP + Azure 
 
 
 Azure Link: https://hha-504-flask-part-1.azurewebsites.net/ and with .../about & .../contact 
